@@ -1,0 +1,50 @@
+body {
+	background-color: #131414;
+}
+
+.header{
+	text-align: center;
+	background-color: rgb(87, 131, 197);
+	color: rgb(255, 255, 255);
+	padding: 30px 5px 5px 10px;
+}
+
+.optionButtons {
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	text-decoration-color: blue;
+}
+
+.difButtons {
+	background-color: rgb(255, 255, 255);
+	border: none;
+	background: none;
+	color: rgb(87, 131, 197);
+}
+
+.colorSquare {
+	width: 30%;
+	margin: 1.66%;
+	float: left;
+	padding-bottom: 30%;
+	display: inline-block;
+	background-color: blue;
+	outline-color: #131414;
+	border-radius: 25px;
+}
+
+.rows {
+	white-space: nowrap;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.selected {
+	background-color: rgb(87, 131, 197);
+	border: none;
+	color: rgb(255, 255, 255);
+}
+
+#top {
+	padding-top: 15px;
+}
